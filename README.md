@@ -33,7 +33,7 @@ Business Analyst | SQL · Python · Power BI · Excel | Chennai
 | 🏦 [Bank Telemarketing EDA](link) | Python, Excel, Power BI | BFSI / Campaign Analytics |
 | 📱 [Market Entry Analysis – Mobile Phones](link) | Python, Excel | Customer Segmentation |
 | 🛒 [Grocery Sales Dashboard](link) | Power BI, Excel | Retail Analytics |
-| 🎬 [IMDB SQL Analysis](link) | MySQL | Entertainment / SQL |
+| 🎬 [imdb-sql-analysis](link) | MySQL | Entertainment / SQL |
 | 📦 [Superstore Sales Analysis](link) | Excel | Retail Analytics |
 
 ---
