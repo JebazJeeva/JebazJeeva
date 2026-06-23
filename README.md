@@ -46,5 +46,5 @@ B2B market research & lead generation in Chennai's electronics hub
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JebazJeeva-blue?style=flat&logo=linkedin)](www.linkedin.com/in/jebazjeeva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JebazJeeva-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jebazjeeva/)
 [![GitHub](https://img.shields.io/badge/GitHub-JebazJeeva-black?style=flat&logo=github)](https://github.com/JebazJeeva)
