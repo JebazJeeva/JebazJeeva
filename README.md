@@ -1,53 +1,50 @@
 # Hi, I'm Jebaz Jeeva M 👋
 
-Business Analyst | SQL · Python · Power BI · Excel | Chennai
+🎓 PGDM — Business Analytics & Marketing | Rajalakshmi School of Business  
+📍 Chennai, India  
+🔍 Actively seeking **Business Analyst** roles in BFSI & Fintech  
 
 ---
 
-## About Me
+## 🛠️ Skills
 
-- 🎓 PGDM in Business Analytics & Marketing – Rajalakshmi School of Business
-- 💼 Ex-Management Trainee at **Piramal Finance** – BFSI lending operations & sales reporting
-- 📊 Currently completing **PwC Academy Professional Certificate** in Business Analytics & Consulting
-- 🔍 Actively seeking **Analyst roles** in Chennai 
-- 📩 jebazjeeva22@gmail.com
+**Analytics & BI:** SQL (MySQL) · Excel (Pivot Tables, VLookup) · Power BI · Python (Pandas, NumPy, Matplotlib)  
+**Techniques:** EDA · Logistic Regression · K-Means Clustering · Data Cleaning · Data Visualization  
+**Soft Skills:** Stakeholder Communication · Business Storytelling · Report Writing  
 
 ---
 
-## Tech Stack
+## 📊 Projects
 
-| Category | Tools |
-|---|---|
-| Languages | Python, SQL (MySQL) |
-| Libraries | Pandas, NumPy, Matplotlib, Seaborn |
-| Visualization | Power BI, Excel Charts |
-| Analytics | EDA, Logistic Regression, K-Means Clustering |
-| Reporting | Excel (Pivot Tables, Lookup Functions), KPI Dashboards |
-
----
-
-## Projects
-
-| Project | Tools | Domain |
+| Project | Tools | Description |
 |---|---|---|
-| 🏦 [Bank Telemarketing EDA](link) | Python, Excel, Power BI | BFSI / Campaign Analytics |
-| 📱 [Market Entry Analysis – Mobile Phones](link) | Python, Excel | Customer Segmentation |
-| 🛒 [Grocery Sales Dashboard](link) | Power BI, Excel | Retail Analytics |
-| 🎬 [imdb-sql-analysis](link) | MySQL | Entertainment / SQL |
-| 📦 [Superstore Sales Analysis](link) | Excel | Retail Analytics |
+| [🎬 IMDB SQL Analysis](https://github.com/JebazJeeva/imdb-sql-analysis) | MySQL | 29 advanced SQL queries using Window Functions & CTEs to guide RSVP Movies' global release strategy |
+| [🛒 Superstore Sales Analysis](https://github.com/JebazJeeva/superstore-sales-analysis) | Excel | Profit/loss breakdown across 8,399 transactions, 7 regions & 4 customer segments |
+| [🏦 Bank Telemarketing EDA](https://github.com/JebazJeeva/bank-telemarketing-eda) | Excel · PowerPoint | Customer conversion analysis to identify high-value targets for term deposit campaigns |
+| [📱 Market Entry Analysis](https://github.com/JebazJeeva/market-entry-analysis-mobile) | Excel · Logistic Regression · K-Means | Go/No-Go recommendation for XYZ Mobiles' India launch — predicted 33,687 potential buyers |
+| [📦 Zepto Grocery Dashboard](https://github.com/JebazJeeva/zepto-powerbi-dashboard) | Power BI | Interactive dashboard analyzing $1M grocery sales across 9K items, 4 outlet types & 3 location tiers |
 
 ---
 
-## Domain Knowledge
+## 💼 Experience
 
-- BFSI lending workflows – KYC, underwriting, loan disbursement
-- Loan pipeline tracking & stakeholder reporting
-- Campaign performance analysis & customer segmentation
-- KPI dashboards & business insight generation
+**Management Trainee (BSM)** — Piramal Finance *(May 2025 – Sep 2025)*  
+Housing loan sourcing & customer relationship management
+
+**Sales Trainee** — BizMagnets *(Apr 2024 – Jun 2024)*  
+B2B market research & lead generation in Chennai's electronics hub
 
 ---
 
-## Connect With Me
+## 📜 Certifications
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jebaz%20Jeeva-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jebazjeeva)
-[![Email](https://img.shields.io/badge/Email-jebazjeeva22@gmail.com-red?style=flat&logo=gmail)](mailto:jebazjeeva22@gmail.com)
+- 🏅 PwC Academy Business Analytics & Consulting — UpGrad  
+- 🏅 AI in Marketing — NPTEL  
+- 🏅 Retail Marketing Strategy — NPTEL  
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JebazJeeva-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-linkedin-id)
+[![GitHub](https://img.shields.io/badge/GitHub-JebazJeeva-black?style=flat&logo=github)](https://github.com/JebazJeeva)
