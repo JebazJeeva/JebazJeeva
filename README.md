@@ -9,7 +9,7 @@ Business Analyst | SQL · Python · Power BI · Excel | Chennai
 - 🎓 PGDM in Business Analytics & Marketing – Rajalakshmi School of Business
 - 💼 Ex-Management Trainee at **Piramal Finance** – BFSI lending operations & sales reporting
 - 📊 Currently completing **PwC Academy Professional Certificate** in Business Analytics & Consulting
-- 🔍 Actively seeking **Business Analyst roles** in Chennai 
+- 🔍 Actively seeking **Analyst roles** in Chennai 
 - 📩 jebazjeeva22@gmail.com
 
 ---
